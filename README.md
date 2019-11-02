@@ -1,2 +1,3 @@
-# _cursoes6
-Projeto do Curso ES6
+# Curso ES6
+## Projeto do Curso ES6 - SkyLab
+
